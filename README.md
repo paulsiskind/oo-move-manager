@@ -1,0 +1,1 @@
+Clone this repo and use `jasmine` to run the specs. Define prototype methods to make the specs pass.
